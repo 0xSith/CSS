@@ -31,38 +31,38 @@ body {
 
 .Astronaut {
   position: absolute;
-  left: 200px;
-  top: 200px;
+  left: 20%;
+  top: 20%;
   width: 250px;
   height: 300px;
 }
 
 .Moon {
   position: absolute;
-  right: 300px;
-  top: 20px;
+  right: 20%;
+  top: 5%;
   width: 325px;
   height: 325px;
 }
 
 .Rocket {
   position: absolute;
-  bottom: 450px;
-  right: 200px;
+  bottom: 42%;
+  right: 18%;
 }
 
 .Eth1 {
   position: absolute;
-  left: 25px;
+  left: 3%;
   height: 100px;
-  bottom: -275px;
+  bottom: -27.5%;
 }
 
 .Eth2 {
   position: absolute;
-  right: 25px;
+  right: 3%;
   height: 100px;
-  bottom: -275px;
+  bottom: -27.5%;
 }
 
 .Trademark {
